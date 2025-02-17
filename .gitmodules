@@ -1,0 +1,3 @@
+[submodule "Plugins/CivilFXCore"]
+	path = Plugins/CivilFXCore
+	url = https://github.com/CivilFX/CivilFXCore
